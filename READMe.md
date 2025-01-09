@@ -1,1 +1,1 @@
-## This is the Python app for testing CI / Actions /Workflows / Build Automation
+## This is the Python app for testing CI
