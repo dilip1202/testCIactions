@@ -1,1 +1,1 @@
-## This is the Python app for testing CI actions second time
+## This is the Python app for testing CI
